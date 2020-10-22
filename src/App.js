@@ -8,15 +8,14 @@ function App() {
  <header className='container-fluid bg-info'>
  <div className='row '>
 <div className='col'>
-<h1 >hello</h1>
+<h3 >React Shooping Cart</h3>
 </div>
  </div>
  </header>
    <main>
-   main area
+   Product List
    </main>
  
-
    <footer className='fixed-bottom' >
    <div className='row  text-center m-0 p-0 '>
     <div className='col-12'>
